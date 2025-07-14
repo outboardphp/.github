@@ -90,6 +90,6 @@ This helps ensure the stability and reliability of the framework as it grows. As
 The security of Outboard is a top priority. If you discover a security vulnerability within the framework, we ask that you report it to us privately.
 **Please do not disclose the vulnerability publicly by creating a GitHub issue.**
 
-*This section will be updated with a dedicated security email address once it is established.*
+Guidelines for reporting security vulnerabilities can be found in our [SECURITY.md](https://github.com/outboardphp/.github/blob/main/SECURITY.md) file.
 
 Thank you for helping us make Outboard a great PHP framework!
