@@ -78,7 +78,7 @@ Please ensure your contributions adhere to the latest supported version of PER-C
 
 ## Testing
 
-We use [PhpSpec](https://phpspec.net/) for unit testing our libraries.
+We use [Pest](https://pestphp.com/) for all testing.
 
 While it is not strictly required at this early stage, **we highly recommend that new code submissions are accompanied by tests.**
 This helps ensure the stability and reliability of the framework as it grows. As the project matures, this recommendation will likely become a requirement.
